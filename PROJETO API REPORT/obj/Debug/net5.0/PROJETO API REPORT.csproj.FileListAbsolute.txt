@@ -1,0 +1,45 @@
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.csprojAssemblyReference.cache
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\appsettings.json
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\PROJETO API REPORT.exe
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\PROJETO API REPORT.deps.json
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\PROJETO API REPORT.runtimeconfig.json
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\PROJETO API REPORT.runtimeconfig.dev.json
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\PROJETO API REPORT.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\ref\PROJETO API REPORT.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\PROJETO API REPORT.pdb
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\DnsClient.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\staticwebassets\PROJETO API REPORT.StaticWebAssets.Manifest.cache
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\staticwebassets\PROJETO API REPORT.StaticWebAssets.xml
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\scopedcss\bundle\PROJETO API REPORT.styles.css
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.RazorTargetAssemblyInfo.cache
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.csproj.CopyComplete
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\ref\PROJETO API REPORT.dll
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.pdb
+C:\Users\Thiago\Desktop\Projeto APIS\PROJETO API REPORT\obj\Debug\net5.0\PROJETO API REPORT.genruntimeconfig.cache
